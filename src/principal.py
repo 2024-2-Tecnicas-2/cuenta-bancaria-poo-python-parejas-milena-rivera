@@ -1,3 +1,7 @@
+import unittest
+
+from cuenta_bancaria import CuentaBancaria
+
 if __name__ == '__main__':
     cuenta = CuentaBancaria('Isaac Rivera ', '507232755 ', 1000.0)
 
